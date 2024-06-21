@@ -66,7 +66,7 @@ public class TiposPrimitivos {
             System.out.println("la bandera es verdadera");
 
         }else{
-            System.out.println("la bandera es falsa");
+            System.out.println("la bandera es fal");
         }
 
 
