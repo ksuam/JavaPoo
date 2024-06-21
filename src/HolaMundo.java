@@ -8,7 +8,7 @@ public class HolaMundo {
         
         System.out.println(miVariableEntera);
         
-        miVariableEntera = 5;
+        miVariableEntera = 7;
         //Se el asigna otro valor a la variable
         System.out.println(miVariableEntera);
         
